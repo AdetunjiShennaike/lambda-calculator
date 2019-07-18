@@ -3,7 +3,8 @@ import styled from 'styled-components'
 
 const Special = styled.button`
   border: 1px solid black;
-  background-color: grey;
+  border-radius: 100%;
+  background-color: teal;
   margin: 1px;
 
 `

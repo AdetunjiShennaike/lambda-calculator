@@ -3,7 +3,8 @@ import styled from 'styled-components'
 
 const Numbered = styled.button`
   border: 1px solid black;
-  background-color: red;
+  border-radius: 100%;
+  background-color: blue;
   margin: 1px;
 
 `

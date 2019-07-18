@@ -3,7 +3,8 @@ import styled from 'styled-components'
 
 const Operand = styled.button`
   border: 1px solid black;
-  background-color: blue;
+  border-radius: 100%;
+  background-color: skyblue;
   margin: 1px;
 
 `
